@@ -3,8 +3,7 @@ Repository with materials and instructions to setup your environment for the WiM
 
 _2022, March 12_
 
-
-## Before the Sprint (e.g. on Monday June 22)
+## Before the Sprint
 - Create your [github account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) 
 if you don't have one already.
 - **Set up your development environment** following the instructions in the markdown file of this repo:
