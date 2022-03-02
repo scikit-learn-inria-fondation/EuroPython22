@@ -1,3 +1,5 @@
+[![Crash course in contributing to open source projects](images/infoWiMLDSsklearn.jpg)](https://www.meetup.com/Paris-Women-in-Machine-Learning-Data-Science/events/283918976/)
+
 # WiMLDS-Paris-Sprint
 Repository with materials and instructions to setup your environment for the WiMLDS Paris' sprint.
 
