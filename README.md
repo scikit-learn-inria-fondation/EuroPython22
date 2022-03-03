@@ -6,6 +6,20 @@ Repository with materials and instructions to setup your environment for the WiM
 _2022, March 12_
 
 ## Before the Sprint
+
+Feel free to start setting up your environment by following the first chapter
+of the Workshop instructions (github account and
+[1.environment.md](1.environment.md)).
+
+It would be great to also familiarize your-self with git by following the
+[learngitbranching](https://learngitbranching.js.org/) online tutorial (no
+installation required).
+
+If you have the time, feel free to do as much as you want of the workshop on
+your own.
+
+## During the morning: workshop for first time contributors
+
 - Create your [github account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) 
 if you don't have one already.
 - **Set up your development environment** following the instructions in the markdown file of this repo:
@@ -20,7 +34,21 @@ if you don't have one already.
 - Have a look a the resources linked below.
 - Feel free too ask for help on the [Gitter Sprint Channel](https://gitter.im/scikit-learn/sprint), at any time.
 
-## Resources for beginners
+If you already know how to build scikit-learn from source, run the tests of a
+specific sub-module and use git to switch between branch and do pull requests,
+feel free to start working on an issues (see below) instead.
+
+## List of issues for the sprint
+
+We will use this [sprint project board](https://github.com/orgs/scikit-learn-inria-fondation/projects/3/views/4) to
+track pull requests during the afternoon (and after the sprint).
+
+In particular those two "meta-issues" list potential tasks to perform as first time contributors:
+
+- https://github.com/scikit-learn/scikit-learn/issues/21350
+- https://github.com/scikit-learn/scikit-learn/issues/22406
+
+## Additional Resources for beginners
 
 #### [Scikit-learn contributor's documentation](https://scikit-learn.org/dev/developers/contributing.html)
 
