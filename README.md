@@ -7,13 +7,13 @@ _2022, March 12_
 
 ## Before the Sprint
 
-Feel free to start setting up your environment by following the first chapter
-of the Workshop instructions (github account and
+Please try setting up your environment by following the first chapter of the
+Workshop instructions (create a GitHub account and follow
 [1.environment.md](1.environment.md)).
 
-It would be great to also familiarize your-self with git by following the
-[learngitbranching](https://learngitbranching.js.org/) online tutorial (no
-installation required).
+Feel free to familiarize yourself with git branching concepts by following the
+[learngitbranching online tutorial](https://learngitbranching.js.org/) (no
+installation required for this tutorial).
 
 If you have the time, feel free to do as much as you want of the workshop on
 your own.
