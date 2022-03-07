@@ -16,7 +16,7 @@ Feel free to familiarize yourself with git branching concepts by following the
 installation required for this tutorial).
 
 If you have the time, feel free to do as much as you want of the workshop on
-your own.
+your own. Feel free to ask question on our [Discord channel](https://discord.gg/rqxwcuw8)
 
 ## During the morning: workshop for first time contributors
 
@@ -32,7 +32,7 @@ if you don't have one already.
   - [6.ci.md](6.ci.md)
   - [7.documentation.md](7.documentation.md)
 - Have a look a the resources linked below.
-- Feel free too ask for help on the [Gitter Sprint Channel](https://gitter.im/scikit-learn/sprint), at any time.
+- Feel free too ask for help on our [Discord channel](https://discord.gg/rqxwcuw8) or on the [Gitter Sprint Channel](https://gitter.im/scikit-learn/sprint), at any time.
 
 If you already know how to build scikit-learn from source, run the tests of a
 specific sub-module and use git to switch between branch and do pull requests,
