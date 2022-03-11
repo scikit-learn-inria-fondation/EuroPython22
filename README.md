@@ -48,6 +48,9 @@ In particular those two "meta-issues" list potential tasks to perform as first t
 - https://github.com/scikit-learn/scikit-learn/issues/21350
 - https://github.com/scikit-learn/scikit-learn/issues/22406
 
+When referencing your PR and while linking it to an existing issue, please insert the following hashtag
+#pariswimlds
+
 ## Additional Resources for beginners
 
 #### [Scikit-learn contributor's documentation](https://scikit-learn.org/dev/developers/contributing.html)
