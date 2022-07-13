@@ -1,11 +1,11 @@
-[![Crash course in contributing to open source projects](images/infoWiMLDSsklearn.jpg)](https://www.meetup.com/Paris-Women-in-Machine-Learning-Data-Science/events/283918976/)
+[![Crash course in contributing to open source projects](images/EuroPython22MentoredSprint.jpg)](https://ep2022.europython.eu/mentored-sprint)
 
-# WiMLDS-Paris-Sprint
-Repository with materials and instructions to setup your environment for the WiMLDS Paris' sprint.
+# EuroPython 2022 - Mentored Sprint - Dublin
+Repository with materials and instructions to setup your environment for the EuroPython mentored sprint.
 
-_2022, March 12_
+_2022, July 13_
 
-## Before the Sprint
+## Before the Sprint (if you can)
 
 Please try setting up your environment by following the first chapter of the
 Workshop instructions (create a GitHub account and follow
@@ -18,7 +18,7 @@ installation required for this tutorial).
 If you have the time, feel free to do as much as you want of the workshop on
 your own. Feel free to ask question on our [Discord channel](https://discord.gg/rqxwcuw8).
 
-## During the morning: workshop for first time contributors
+## Workshop for first time contributors
 
 - Create your [github account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) 
 if you don't have one already.
@@ -40,7 +40,7 @@ feel free to start working on an issues (see below) instead.
 
 ## List of issues for the sprint
 
-We will use this [sprint project board](https://github.com/orgs/scikit-learn-inria-fondation/projects/3/views/4) to
+We will use this [sprint project board](https://github.com/orgs/scikit-learn-inria-fondation/projects/5) to
 track pull requests during the afternoon (and after the sprint).
 
 In particular those two "meta-issues" list potential tasks to perform as first time contributors:
@@ -49,7 +49,7 @@ In particular those two "meta-issues" list potential tasks to perform as first t
 - https://github.com/scikit-learn/scikit-learn/issues/22406
 
 When referencing your PR and while linking it to an existing issue, please insert the following hashtag
-#pariswimlds
+#europython22
 
 ## Additional Resources for beginners
 
