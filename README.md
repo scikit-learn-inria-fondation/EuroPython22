@@ -43,10 +43,13 @@ feel free to start working on an issues (see below) instead.
 We will use this [sprint project board](https://github.com/orgs/scikit-learn-inria-fondation/projects/5) to
 track pull requests during the afternoon (and after the sprint).
 
-In particular those two "meta-issues" list potential tasks to perform as first time contributors:
+In particular those "meta-issues" list potential tasks to perform as first time contributors:
 
 - https://github.com/scikit-learn/scikit-learn/issues/21350
-- https://github.com/scikit-learn/scikit-learn/issues/22406
+
+Another one can interest people with a bit more experience:
+
+- https://github.com/scikit-learn/scikit-learn/issues/11000
 
 When referencing your PR and while linking it to an existing issue, please insert the following hashtag
 #europython22
