@@ -32,7 +32,7 @@ if you don't have one already.
   - [6.ci.md](6.ci.md)
   - [7.documentation.md](7.documentation.md)
 - Have a look a the resources linked below.
-- Feel free too ask for help on our [Discord channel](https://discord.gg/rqxwcuw8) or on the [Gitter Sprint Channel](https://gitter.im/scikit-learn/sprint), at any time.
+- Feel free too ask for help on our [Discord channel](https://discord.gg/D7k9Ez8u) or on the [Gitter Sprint Channel](https://gitter.im/scikit-learn/sprint), at any time.
 
 If you already know how to build scikit-learn from source, run the tests of a
 specific sub-module and use git to switch between branch and do pull requests,
