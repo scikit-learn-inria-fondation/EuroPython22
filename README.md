@@ -46,6 +46,7 @@ track pull requests during the afternoon (and after the sprint).
 In particular those "meta-issues" list potential tasks to perform as first time contributors:
 
 - https://github.com/scikit-learn/scikit-learn/issues/21350
+- https://github.com/scikit-learn/scikit-learn/issues/23462
 
 Another one can interest people with a bit more experience:
 
